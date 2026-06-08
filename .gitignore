@@ -1,0 +1,8 @@
+@"
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.bldllmfs
+"@ | Out-File -Encoding utf8 .gitignore

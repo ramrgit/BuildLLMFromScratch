@@ -1,0 +1,15 @@
+# LLMs from Scratch - Windows 11, Python 3.11, RTX 4070
+# Install PyTorch separately first:
+# pip install torch==2.5.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+ 
+torch==2.5.1
+torchvision
+torchaudio
+jupyterlab>=4.0
+tiktoken>=0.5.1
+matplotlib>=3.7.1
+tensorflow>=2.18.0
+tqdm>=4.66.1
+numpy>=1.26
+pandas>=2.2.1
+psutil>=5.9.5
