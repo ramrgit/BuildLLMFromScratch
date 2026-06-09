@@ -28,11 +28,11 @@ You lose progress to "start over" because you lose your *mental state* between s
 
 ## One-time setup (do this first, ~30 min, Mon Week 1)
 
-- [ ] Create a project folder; `git init`; create `PROGRESS.md` and paste the template (bottom of this file)
-- [ ] Confirm PyTorch sees the GPU: `python -c "import torch; print(torch.cuda.is_available())"` → should print `True`
+- [x] Create a project folder; `git init`; create `PROGRESS.md` and paste the template (bottom of this file)
+- [x] Confirm PyTorch sees the GPU: `python -c "import torch; print(torch.cuda.is_available())"` → should print `True`
 - [ ] Clone the companion repo: `git clone https://github.com/rasbt/LLMs-from-scratch`
-- [ ] Bookmark the free "Test Yourself" quiz PDF (Manning) — ~30 questions/chapter, great for self-checking
-- [ ] Set an Azure **budget alert** at $5 (Cost Management → Budgets) — free insurance before any Foundry work
+- [x] Bookmark the free "Test Yourself" quiz PDF (Manning) — ~30 questions/chapter, great for self-checking
+- [x] Set an Azure **budget alert** at $5 (Cost Management → Budgets) — free insurance before any Foundry work
 
 ---
 
