@@ -42,7 +42,7 @@ Goal by Friday: you can turn text into tokens, and you've made your first Foundr
 
 - [x] **Mon** — Setup (above) + start **Ch 1** (Understanding LLMs). Mostly reading; light day on purpose.
 - [x] **Tue** — Finish **Ch 1**. If PyTorch feels rusty, skim **Appendix A** (PyTorch primer) — don't skip if unsure; it pays off all month.
-- [ ] **Wed** — **Ch 2** (Working with text data): tokenization, byte-pair encoding. Hands-on and satisfying.
+- [x] **Wed** — **Ch 2** (Working with text data): tokenization, byte-pair encoding. Hands-on and satisfying.
 - [ ] **Thu** — **Ch 2** cont.: data loaders, input-target pairs, embeddings. Retype the data loader yourself.
 - [ ] **Fri** — Finish **Ch 2** + do the Ch 2 exercises. You now have a working tokenizer/data pipeline.
 - [ ] **Weekend block (~2 hr) — FOUNDRY #1:** sign in to ai.azure.com → deploy a serverless model (Haiku 4.5 or any cheap one) → call it from the **playground** AND from a **Python script** (endpoint + key). Confirm deployment type says *serverless / pay-as-you-go*, never a dedicated GPU SKU. Resume item banked.
